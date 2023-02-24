@@ -1,0 +1,13 @@
+#one-id {
+color:rgb(0,0,255);
+font-size:36px;
+}
+#another-id {
+    background-color:rgb(144, 238, 144);
+    font-size:24px;
+    font-weight: bold;
+}
+.pink {
+    background-color:#ffa8b5;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
